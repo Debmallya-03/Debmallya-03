@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/debmallyaaj" target="blank"><img src="https://img.shields.io/twitter/follow/debmallyaaj?logo=twitter&style=for-the-badge" alt="debmallyaaj" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently building **Ryuu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
