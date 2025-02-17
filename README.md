@@ -1,7 +1,7 @@
 <img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/90/a5/e0/90a5e023d3b46c2f9b08e547bd7cfd5e.gif">
 <h1 align="center">Hi 👋, I'm Debmallya Bhandari</h1>
 <h3 align="center">A passionate full stack(MERN) developer from India</h3>
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/a0/fa/78/a0fa7887fde9ff467e1d038fba6605a9.gif">
+<img align="right" alt="Coding" width="230" src="https://i.pinimg.com/originals/a0/fa/78/a0fa7887fde9ff467e1d038fba6605a9.gif">
 
 
 
