@@ -38,7 +38,7 @@
 <a href="https://www.facebook.com/share/14LJA7agxR/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
-<a href="https://www.leetcode.com/debmallya-03" target="_blank">
+<a href="https://leetcode.com/u/DEBMALLYA_03/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
 </a>
 <a href="https://www.hackerrank.com/debmallyabhanda1" target="_blank">
