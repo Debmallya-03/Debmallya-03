@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">A passionate full stack(MERN) developer & ML Enthusiast</h3>
-<img align="right" alt="Coding" width="230" src="https://i.pinimg.com/originals/a0/fa/78/a0fa7887fde9ff467e1d038fba6605a9.gif">
+<img align="right" alt="Coding" width="230" src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif">
 
 
 
@@ -109,6 +109,28 @@
 
 </div>
 <br>
+<p align="center">
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/Debmallya-03?theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Debmallya-03&theme=react-dark&hide_border=false"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <span style="display:inline-block; width:40px;"></span>
+  <img
+    height="180em"
+    width="900em"
+    src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=default&quoteType=random&bgColor=black"
+  />
+</p>
+
+
+
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debmallya-03&label=Profile%20views&color=0e75b6&style=flat" alt="debmallya-03" /> </p>
