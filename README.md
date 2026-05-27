@@ -3,7 +3,7 @@
   Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="30px" style="vertical-align: middle;" /> I'm Debmallya Bhandari
 </h1>
 
-<h3 align="center">A passionate full stack(MERN) developer & ML Enthusiast</h3>
+<h3 align="center">A passionate Generative AI & Full Stack(MERN) Developer</h3>
 <img align="right" alt="Coding" width="230" src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif">
 
 
